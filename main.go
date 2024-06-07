@@ -41,8 +41,4 @@ func main() {
 	fmt.Println(file)
 	fmt.Printf("%#v\n", os.Args)
 	fmt.Println(len(os.Args))
-	fmt.Println(os.Args[0])
-	fmt.Println(os.Args[1])
-	fmt.Println(os.Args[2])
-	fmt.Println(os.Args[3])
 }
